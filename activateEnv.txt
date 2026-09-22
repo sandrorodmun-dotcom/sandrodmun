@@ -1,10 +1,19 @@
-Activate Virtual Environment
+Activate Virtual Environment:
+-------------------------------------
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 .\my_venv\Scripts\Activate.ps1
 
+Close Virtual Environment:
+-------------------------------
+deactivate
 
 Open Website Locally:
+---------------------------
 myst start
+
+Close Website server:
+---------------------------
+Ctrl+C
 
 Video
 https://gishub.org/blog/build-personal-website/#enable-github-pages
