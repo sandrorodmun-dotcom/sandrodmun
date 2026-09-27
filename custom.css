@@ -1,55 +1,207 @@
-.myst-fm-downloads-dropdown {
-  display: none !important;
+/* =========================================================
+   Researcher Website — Sandro Rodríguez Muñoz
+   ========================================================= */
+
+/* ---------- General typography ---------- */
+
+:root {
+  --content-width: 1100px;
+  --text-color: #242424;
+  --muted-color: #666;
+  --accent-color: #174a7e;
+  --accent-hover: #0d355c;
+  --border-color: #e2e5e8;
+  --background-soft: #f7f8fa;
 }
 
-table td:first-child,
-table th:first-child {
-  white-space: nowrap;
+body {
+  color: var(--text-color);
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Helvetica,
+    Arial,
+    sans-serif;
+  line-height: 1.7;
 }
 
-#giscus-comments {
-  max-width: 100% !important;
-  padding: 0 !important;
+/* ---------- Main content ---------- */
+
+article {
+  max-width: var(--content-width);
 }
 
-.giscus,
-.giscus-frame {
-  width: 100% !important;
+/* ---------- Headings ---------- */
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
 }
 
-#featured-projects + .myst-grid .myst-card-footer,
-#featured-projects + .myst-grid .myst-card-title {
+h1 {
+  font-size: 2.6rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.7rem;
+  margin-top: 2.5rem;
+}
+
+/* ---------- Links ---------- */
+
+a {
+  color: var(--accent-color);
+}
+
+a:hover {
+  color: var(--accent-hover);
+}
+
+/* ---------- Homepage ---------- */
+
+/* Subtitle immediately following the main title */
+h1 + h2 {
+  color: var(--muted-color);
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+/* ---------- Horizontal rules ---------- */
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--border-color);
+  margin: 3rem 0;
+}
+
+/* ---------- Lists ---------- */
+
+li {
+  margin-bottom: 0.25rem;
+}
+
+/* ---------- Navigation ---------- */
+
+nav a {
+  transition: color 0.15s ease;
+}
+
+/* ---------- Code ---------- */
+
+code {
+  font-size: 0.9em;
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 2.1rem;
+  }
+
+  h2 {
+    font-size: 1.45rem;
+  }
+
+  article {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* =========================================================
+   Researcher Header
+   ========================================================= */
+
+.researcher-header {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(260px, 1fr);
+  gap: 4rem;
+  margin: 2rem 0 3rem 0;
+  align-items: start;
+}
+
+.researcher-intro h3 {
+  color: var(--accent-color);
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.researcher-intro > p:first-of-type {
+  font-size: 1.1rem;
+}
+
+.researcher-links {
+  margin-top: 1.5rem;
+  font-weight: 500;
+}
+
+.researcher-links a {
+  display: inline-block;
+  margin-right: 1.5rem;
+}
+
+/* ---------- Profile column ---------- */
+
+.researcher-profile {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
-  text-align: center !important;
-  white-space: nowrap;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
-#featured-projects + .myst-grid .myst-card-footer > *,
-#featured-projects + .myst-grid .myst-card-title > * {
-  text-align: center !important;
+.researcher-profile > img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 1.5rem;
 }
 
-#featured-projects + .myst-grid .myst-card-footer p,
-#featured-projects + .myst-grid .myst-card-footer strong {
-  margin: 0 auto;
+.researcher-info {
+  border-left: 1px solid var(--border-color);
+  padding-left: 1.5rem;
+  color: var(--muted-color);
+  font-size: 0.95rem;
+  line-height: 1.6;
 }
 
-#posts ~ .myst-grid .myst-card-header,
-#posts ~ * .myst-grid .myst-card-header {
-  padding: 0.5rem !important;
-  border-bottom: none !important;
-  background: transparent !important;
-}
-
-#posts ~ .myst-grid .myst-card-header img,
-#posts ~ * .myst-grid .myst-card-header img {
+.researcher-info strong {
   display: block;
-  width: 100%;
-  margin: 0 !important;
-  border: 1px solid rgba(128, 128, 128, 0.3);
-  border-radius: 4px;
+  color: var(--text-color);
+  margin-top: 1rem;
+  margin-bottom: 0.15rem;
+}
+
+.researcher-info strong:first-child {
+  margin-top: 0;
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 700px) {
+
+  .researcher-header {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .researcher-profile {
+    align-items: center;
+  }
+
+  .researcher-info {
+    width: 100%;
+    border-left: none;
+    border-top: 1px solid var(--border-color);
+    padding-left: 0;
+    padding-top: 1.5rem;
+  }
 }

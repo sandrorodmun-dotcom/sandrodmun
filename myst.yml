@@ -1,60 +1,29 @@
 version: 1
+
 project:
-  title: Sandro Rodríguez Muñoz
-  # authors:
-  #   - name: Author Name
-  copyright: '2026'
-  exclude:
-    - _build
-    - Thumbs.db
-    - .DS_Store
-    - '**.ipynb_checkpoints'
-    - generate_rss.py
-    - inject_comments.py
-    - rss.xml
-    - atom.xml
-    - CONDUCT.md
-    - CONTRIBUTING.md
-    - README.md
-  github: opengeos/myst-website-template
-  thebe:
-    binder:
-      repo: opengeos/myst-website-template
-      provider: github
-      url: https://mybinder.org
-      ref: main
-  bibliography:
-    - pages/references.bib
-  toc:
-    - file: index.md
-    - title: Preface
-      children:
-        - file: pages/preface.md
-    - title: Getting Started
-      children:
-        - file: pages/part01/getting-started.md
-        - file: pages/part01/installation.md
-    - title: Examples
-      children:
-        - file: pages/part02/first-example.md
-    - file: blog.md
-      children:
-        - file: tags/myst-markdown.md
-        - file: tags/tutorial.md
-        - file: tags/github-pages.md
-    - pattern: posts/*.md
-      hidden: true
+  title: "Sandro Rodríguez Muñoz"
+  description: "Researcher in mathematics, physics, and computer science"
+  github: https://github.com/sandrodmun
+
 site:
+  template: book-theme
+
   options:
     logo: logo.png
-    logo_dark: logo.png
     favicon: logo.png
-    folders: true
+    logo_alt: "Sandro Rodríguez Muñoz"
+    logo_text: "Sandro Rodríguez Muñoz"
     style: custom.css
-    # analytics_google: G-XXX
-  actions:
-    - title: RSS
-      url: https://opengeos.org/myst-website-template/rss.xml
-  template: book-theme
-  parts:
-    primary_sidebar_footer: ''
+
+  nav:
+    - title: Research
+      url: /research
+
+    - title: Teaching & Notes
+      url: /teaching
+
+    - title: Projects
+      url: /projects
+
+    - title: CV
+      url: /cv
