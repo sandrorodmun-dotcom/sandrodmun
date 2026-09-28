@@ -58,7 +58,7 @@ You can find more details about my research [here](research.md)
 
 ...
 
-[Teaching](teaching.md)
+[Teaching](teaching/teaching.md)
 
 ---
 
@@ -66,4 +66,5 @@ You can find more details about my research [here](research.md)
 
 For academic enquiries, collaborations, or questions about my research and educational material, etc., feel free to get in touch!
 
-Email: [sandrorodmun@gmail.com](mailto:sandrorodmun@gmail.com)
+<!-- Email: [sandrorodmun@gmail.com](mailto:sandrorodmungmail.com) -->
+Email: **sandrorodmun at gmail dot com**

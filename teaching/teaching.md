@@ -26,7 +26,7 @@ I also have a **YouTube channel**, where I have previously shared mathematical a
 
 The channel has been inactive for some time. I plan to return to it in the future with a more **structured and coherent approach**, connecting the videos with the written material and educational projects available on this website.
 
-[Visit my YouTube channel →](YOUR-YOUTUBE-LINK)
+[YouTube: Sandrodmun](https://www.youtube.com/@sandrodmun)
 
 ---
 
