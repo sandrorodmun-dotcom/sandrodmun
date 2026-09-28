@@ -122,3 +122,4 @@ pages-*/images/
 
 # Private / local files
 private/
+my_venv/

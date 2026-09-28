@@ -1,39 +1,75 @@
-# Teaching & Notes
+# Teaching & Educational Resources
 
-This section collects my **teaching material, mathematical notes, exercises, and educational projects**.
+Alongside my research, I am interested in **mathematical education and the development of resources for learning mathematics**.
 
-The material ranges from introductory mathematics to more advanced topics in category theory, categorical quantum mechanics, and operator theory.
-
----
-
-## Teaching
-
-Material developed for courses, tutoring, and mathematical teaching.
-
-[Teaching material →](teaching/teaching.md)
+This section is currently a **work in progress**. I plan to gradually collect teaching material, mathematical notes, exercises, and interactive resources here.
 
 ---
 
-## Mathematical Notes
+## Teaching Material
 
-Notes developed during my studies and research.
+I am currently developing this section as a place for:
 
-- [Mathematics →](teaching/mathematics.md)
-- [Category Theory →](teaching/category-theory.md)
-- [Quantum Theory →](teaching/quantum-theory.md)
+- Lecture notes
+- Mathematical explanations
+- Exercises and problem sets
+- Worked solutions
+- Other resources developed for teaching
 
----
-
-## Exercises
-
-Problem sets, exercises, and worked solutions.
-
-[Exercises →](teaching/exercises.md)
+**This material is not yet available here, but will be added progressively.**
 
 ---
 
-## Educational Projects
+## YouTube
 
-Interactive and computational projects for learning and teaching mathematics.
+I also have a **YouTube channel**, where I have previously shared mathematical and educational content.
 
-[Educational projects →](teaching/projects.md)
+The channel has been inactive for some time. I plan to return to it in the future with a more **structured and coherent approach**, connecting the videos with the written material and educational projects available on this website.
+
+[Visit my YouTube channel →](YOUR-YOUTUBE-LINK)
+
+---
+
+## Interactive Mathematics Projects
+
+I am developing a collection of **interactive applications for mathematics education**.
+
+The aim is to create tools that allow students to:
+
+- Explore mathematical concepts interactively
+- Visualize abstract structures
+- Generate and work with mathematical problems
+- Experiment with examples
+- Develop intuition through computation and visualization
+
+One of the projects currently focuses on **interactive graph theory tools**, including applications for constructing graphs, visualizing them, and generating or exploring problems.
+
+The project is still under development.
+
+[Explore the educational applications on GitHub →](YOUR-REPOSITORY-LINK)
+
+---
+
+## Future Material
+
+As these projects develop, this section will gradually include:
+
+**Notes**  
+Mathematical notes and expository material.
+
+**Exercises**  
+Problems and worked solutions.
+
+**Interactive tools**  
+Web applications for visualization and experimentation.
+
+**Videos**  
+Educational videos connected with the written and interactive material.
+
+**Documents**  
+PDFs and other downloadable resources.
+
+---
+
+> **Work in progress.**  
+> This section will evolve as I develop and organize the corresponding teaching and educational material.

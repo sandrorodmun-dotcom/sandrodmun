@@ -5,6 +5,13 @@ project:
   description: "Researcher in mathematics, physics, and computer science"
   github: https://github.com/sandrodmun
 
+  toc:
+    - file: index.md
+    - file: research.md
+    - file: teaching.md
+    - file: projects.md
+    - file: cv.md
+
 site:
   template: book-theme
 
@@ -19,7 +26,7 @@ site:
     - title: Research
       url: /research
 
-    - title: Teaching & Notes
+    - title: Teaching & Educational Resources
       url: /teaching
 
     - title: Projects
@@ -27,3 +34,7 @@ site:
 
     - title: CV
       url: /cv
+
+  actions:
+    - title: GitHub
+      url: https://github.com/sandrodmun
