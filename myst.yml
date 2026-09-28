@@ -8,8 +8,8 @@ project:
   toc:
     - file: index.md
     - file: research.md
-    - file: teaching.md
-    - file: projects.md
+    - file: teaching\teaching.md
+    - file: teaching\projects.md
     - file: cv.md
 
 site:

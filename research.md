@@ -46,17 +46,6 @@ Mathematical structures underlying quantum theories, including infinite-dimensio
 
 ---
 
-## Supervisors
-
-**[Vladimir Zamdzhiev](https://zamdzhiev.github.io/)**  
-Université Paris-Saclay
-
-**[Jean-Simon Pacaud Lemay](https://sites.google.com/view/jspl-personal-webpage/)**  
-Macquarie University
-
-**[Jean Goubault-Larrecq](https://topology.lmf.cnrs.fr/about-me/)**  
-ENS Paris-Saclay
-
 ## Publications
 
 Publications and preprints will be listed here as the research develops.
@@ -66,3 +55,20 @@ Publications and preprints will be listed here as the research develops.
 ## Talks & Presentations
 
 A collection of talks, seminars, conferences, and other research presentations will be added here.
+
+
+## Research
+
+### Categorical Quantum Mechanics
+
+My doctoral research concerns mathematical foundations for categorical quantum mechanics, with particular interest in **infinite-dimensional quantum systems** and the categorical structures required to describe them.
+
+Topics I am currently studying include:
+
+- Infinite-dimensional categorical quantum mechanics
+- Dagger-linear and *-autonomous structures
+- Operator spaces and operator algebras
+- Differential and categorical structures
+- Mathematical descriptions of quantum dynamics
+
+[Explore my research →](research.md)

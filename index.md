@@ -4,21 +4,19 @@
 
 <div class="researcher-intro">
 
-### PhD Researcher
-
 **Mathematics · Physics · Computer Science**
 
-I work on **categorical approaches to quantum theory**, at the intersection of category theory, mathematical physics, and theoretical computer science.
+## About Me
 
-My doctoral research is carried out jointly between **Université Paris-Saclay** and **Macquarie University**.
+Hello! My name is Sandro, and I am a PhD student at **Université Paris-Saclay** (Gif-sur-Yvette, France) and **Macquarie University** (Sydney, Australia).
 
-<div class="researcher-links">
+I was born in Spain, and have spent most of my life in the beautiful city of Sevilla, I recommend everyone to visit it at least once!
 
-[Research →](research.md)  
-[Teaching & Notes →](teaching.md)  
-[Curriculum Vitae →](cv.md)
+I did my bachelor's in Physics at the UCM (Universidad Complutense de Madrid) and my master's in mathemtics at the UGR (Universidad de Granada).
 
-</div>
+My native language is Spanish, but I also speak English, a bit of German and I am currently learning French. I plan to keep learning German in the future, but of course French has become my priority at the moment.
+
+In my free time I like to make [teaching material](teaching/teaching.md)  (notes, apps, YouTube videos, etc.) about mathematics, physics, etc. It is still a work in progress, so there is not that much material yet. Any suggestions and ideas are welcome!
 
 </div>
 
@@ -29,78 +27,43 @@ My doctoral research is carried out jointly between **Université Paris-Saclay**
 <div class="researcher-info">
 
 **Current position**
-
-PhD Researcher
+PhD Student
 
 **Affiliations**
-
-Université Paris-Saclay  
+Université Paris-Saclay (LMF)<br>
 Macquarie University
 
 **Research**
+Category Theory <br>
+Differential Categories <br>
+Categorical Quantum Mechanics <br>
+Operator Spaces <br>
+Quantum Mechanics
 
-Categorical Quantum Mechanics  
-Category Theory  
-Mathematical Physics
+</div>
 
 </div>
 
 </div>
 
-</div>
+## Research Interests
 
----s
+...
 
-## About
-
-My research focuses on the use of **category theory and related mathematical structures to describe and understand quantum theories**.
-
-My broader interests include categorical quantum mechanics, category theory, operator theory, mathematical physics, and categorical approaches to computation.
-
-I am particularly interested in mathematical structures that allow theories from different areas to be described, compared, and connected in a common framework.
-
----
-
-## Research
-
-### Categorical Quantum Mechanics
-
-My doctoral research concerns mathematical foundations for categorical quantum mechanics, with particular interest in **infinite-dimensional quantum systems** and the categorical structures required to describe them.
-
-Topics I am currently studying include:
-
-- Infinite-dimensional categorical quantum mechanics
-- Dagger-linear and *-autonomous structures
-- Operator spaces and operator algebras
-- Differential and categorical structures
-- Mathematical descriptions of quantum dynamics
-
-[Explore my research →](research.md)
+You can find more details about my research [here](research.md)
 
 ---
 
 ## Teaching & Notes
 
-Alongside my research, I develop **mathematical notes, lecture material, exercises, and educational projects**.
+...
 
-These materials are intended both as a record of my own study and as resources that may be useful to other students and researchers.
-
-[Explore the materials →](teaching.md)
-
----
-
-## Current position
-
-**PhD Researcher**  
-Université Paris-Saclay · France  
-Macquarie University · Australia
-
-**Research area:** Mathematics, Physics & Computer Science
+[Teaching](teaching.md)
 
 ---
 
 ## Contact
 
-For academic enquiries, collaborations, or questions about my research and educational material, please get in touch.
+For academic enquiries, collaborations, or questions about my research and educational material, etc., feel free to get in touch!
 
-[Curriculum Vitae →](cv.md)
+Email: [sandrorodmun@gmail.com](mailto:sandrorodmun@gmail.com)

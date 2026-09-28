@@ -1,0 +1,13 @@
+1. Remove the github, write and download symbols at the top of the webpage for some reason it downloads the index.md file
+2. Chang the Sandro ROdriguez Muñoz link to Home/About Me+
+
+
+
+
+4. Maybe change the picture to be on the left
+
+5. Make the links in the night mode a bit more colorful
+
+6. The about me... text looks a bit too comoressed, try to make it a bit longer
+
+7. Make CV
