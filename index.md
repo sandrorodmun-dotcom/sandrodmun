@@ -14,11 +14,11 @@ downloads: []
 
 Hello! My name is Sandro, and I am a PhD student at **Université Paris-Saclay** (Gif-sur-Yvette, France) and **Macquarie University** (Sydney, Australia).
 
-I was born in Spain, and have spent most of my life in the beautiful city of Sevilla, I recommend everyone to visit it at least once!
+I was born in Spain and have spent most of my life in the beautiful city of Sevilla. I recommend that everyone visit it at least once!
 
-I did my bachelor's in Physics at the UCM (Universidad Complutense de Madrid) and my master's in mathemtics at the UGR (Universidad de Granada).
+I completed my bachelor's in physics at UCM (Universidad Complutense de Madrid) and my master's in mathematics at UGR (Universidad de Granada).
 
-My native language is Spanish, but I also speak English, a bit of German and I am currently learning French. I plan to keep learning German in the future, but of course French has become my priority at the moment.
+My native language is Spanish, but I also speak English, a bit of German, and I am currently learning French. I plan to continue learning German in the future, but French is my main priority right now.
 
 </div>
 
@@ -46,15 +46,16 @@ Quantum Mechanics
 </div>
 
 ## Research Interests
-Currently I am interested in **pure category theory** and **categorical quantum mechanics**. 
 
-You can find more details about my research [here](research.md)
+Currently, I am interested in **pure category theory** and **categorical quantum mechanics**. 
+
+You can find more details about my research [here](research.md).
 
 ---
 
 ## Teaching & Notes
 
-In my free time I like to make [teaching material](teaching.md) (notes, apps, YouTube videos, etc.) about mathematics, physics, etc. It is still a work in progress, so there is not that much material yet. Any suggestions and ideas are welcome!
+In my free time, I like to create [teaching material](teaching.md) (such as notes, interactive apps, and YouTube videos) for mathematics and physics. It is still a work in progress, so content is gradually being added. Any suggestions or ideas are warmly welcome!
 
 ---
 
@@ -62,5 +63,5 @@ In my free time I like to make [teaching material](teaching.md) (notes, apps, Yo
 
 For academic inquiries, research collaborations, or questions regarding my educational materials, feel free to reach out!
 
-<!-- Email: [sandrorodmun@gmail.com](mailto:sandrorodmungmail.com) -->
+<!-- Email: [sandrorodmun@gmail.com](mailto:sandrorodmun@gmail.com) -->
 Email: **sandrorodmun at gmail dot com**
