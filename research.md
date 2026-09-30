@@ -2,7 +2,7 @@
 
 My research lies at the intersection of **category theory, quantum theory, mathematics, and theoretical computer science**.
 
-I am particularly interested in categorical structures that provide mathematical frameworks for describing quantum systems, and in extending categorical quantum mechanics to settings involving infinite-dimensional systems.
+I am particularly interested in categorical structures that provide mathematical frameworks for describing quantum systems, and which may be used to extend categorical quantum mechanics to settings involving infinite-dimensional systems.
 
 ## PhD Research
 

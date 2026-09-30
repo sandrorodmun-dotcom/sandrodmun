@@ -1,3 +1,7 @@
+---
+downloads: []
+---
+
 # Sandro Rodríguez Muñoz
 
 <div class="researcher-header">
@@ -56,7 +60,7 @@ In my free time I like to make [teaching material](teaching.md) (notes, apps, Yo
 
 ## Contact
 
-For academic enquiries, collaborations, or questions about my research and educational material, etc., feel free to get in touch!
+For academic inquiries, research collaborations, or questions regarding my educational materials, feel free to reach out!
 
 <!-- Email: [sandrorodmun@gmail.com](mailto:sandrorodmungmail.com) -->
 Email: **sandrorodmun at gmail dot com**

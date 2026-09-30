@@ -1,8 +1,8 @@
 # Teaching & Educational Resources
 
-Alongside my research, I am interested in education and the development of resources for learning mathematics, physics, etc. In the future, I would also like to do educational projects related to history, biology, philosophy, languages, etc.
+Alongside my research, I am interested in education and the development of resources for learning mathematics and physics. In the future, I would also like to do educational projects related to history, biology, philosophy, languages, etc.
 
-This section is currently a **work in progress**. I plan to gradually collect teaching material, mathematical notes, exercises, and interactive resources here.
+This section is currently a **work in progress**. I plan to gradually collect teaching material, notes, exercises, and interactive resources here.
 
 ---
 
@@ -11,7 +11,7 @@ This section is currently a **work in progress**. I plan to gradually collect te
 I am currently developing this section as a place for:
 
 - Lecture notes
-- Mathematical explanations
+- Explanations
 - Exercises and problem sets
 - Worked solutions
 - Other resources developed for teaching
@@ -20,9 +20,7 @@ I am currently developing this section as a place for:
 
 ## YouTube
 
-I also have a **YouTube channel**, where I have previously shared mathematical and educational content.
-
-The channel has been inactive for some time. I plan to return to it in the future with a more structured and coherent approach, connecting the videos with the written material and educational projects available on this website.
+I also have a **YouTube channel**, but the channel has been inactive for some time. I plan to return to it in the future with a more structured and coherent approach, connecting the videos with the written material and educational projects available on this website.
 
 [YouTube: Sandrodmun](https://www.youtube.com/@sandrodmun)
 
