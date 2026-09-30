@@ -16,8 +16,6 @@ I did my bachelor's in Physics at the UCM (Universidad Complutense de Madrid) an
 
 My native language is Spanish, but I also speak English, a bit of German and I am currently learning French. I plan to keep learning German in the future, but of course French has become my priority at the moment.
 
-In my free time I like to make [teaching material](teaching/teaching.md)  (notes, apps, YouTube videos, etc.) about mathematics, physics, etc. It is still a work in progress, so there is not that much material yet. Any suggestions and ideas are welcome!
-
 </div>
 
 <div class="researcher-profile">
@@ -48,7 +46,8 @@ Quantum Mechanics
 
 ## Research Interests
 
-...
+Currently I am interested in **pure category theory** and **categorical quantum mechanics**. 
+
 
 You can find more details about my research [here](research.md)
 
@@ -56,9 +55,7 @@ You can find more details about my research [here](research.md)
 
 ## Teaching & Notes
 
-...
-
-[Teaching](teaching/teaching.md)
+In my free time I like to make [teaching material](teaching.md) (notes, apps, YouTube videos, etc.) about mathematics, physics, etc. It is still a work in progress, so there is not that much material yet. Any suggestions and ideas are welcome!
 
 ---
 
