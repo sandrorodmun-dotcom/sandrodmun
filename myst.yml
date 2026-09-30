@@ -3,7 +3,7 @@ version: 1
 project:
   title: "Sandro Rodríguez Muñoz"
   description: "Researcher in mathematics, physics, and computer science"
-  github: https://github.com/sandrodmun
+  # github: https://github.com/sandrodmun
 
   toc:
     - file: index.md
@@ -29,12 +29,12 @@ site:
     - title: Teaching & Educational Resources
       url: /teaching
 
-    - title: Projects
-      url: /projects
+    # - title: Projects
+    #   url: /projects
 
     - title: CV
       url: /cv
 
-  actions:
-    - title: GitHub
-      url: https://github.com/sandrodmun
+  # actions:
+  #   - title: GitHub
+  #     url: https://github.com/sandrodmun

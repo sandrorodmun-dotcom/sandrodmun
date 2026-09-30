@@ -37,17 +37,12 @@ Differential Categories <br>
 Categorical Quantum Mechanics <br>
 Operator Spaces <br>
 Quantum Mechanics
-
 </div>
-
 </div>
-
 </div>
 
 ## Research Interests
-
 Currently I am interested in **pure category theory** and **categorical quantum mechanics**. 
-
 
 You can find more details about my research [here](research.md)
 
